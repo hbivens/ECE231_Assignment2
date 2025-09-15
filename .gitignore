@@ -1,6 +1,6 @@
 buildq/cmake_install.cmake
 buildq/CMakeCache.txt
-buildq/main
+buildq/
 buildq/Makefile
 buildq/CMakeFiles/cmake.check_cache
 buildq/CMakeFiles/CMakeConfigureLog.yaml
@@ -67,3 +67,15 @@ buildq/CMakeFiles/test.dir/test.cpp.o
 buildq/CMakeFiles/test.dir/test.cpp.o.d
 buildq/libstatistics.a
 buildq/test
+buildq/main2
+buildq/CMakeFiles/main2.dir/build.make
+buildq/CMakeFiles/main2.dir/cmake_clean.cmake
+buildq/CMakeFiles/main2.dir/compiler_depend.make
+buildq/CMakeFiles/main2.dir/compiler_depend.ts
+buildq/CMakeFiles/main2.dir/depend.make
+buildq/CMakeFiles/main2.dir/DependInfo.cmake
+buildq/CMakeFiles/main2.dir/flags.make
+buildq/CMakeFiles/main2.dir/link.txt
+buildq/CMakeFiles/main2.dir/main2.cpp.o
+buildq/CMakeFiles/main2.dir/main2.cpp.o.d
+buildq/CMakeFiles/main2.dir/progress.make
