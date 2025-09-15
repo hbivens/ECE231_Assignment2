@@ -23,7 +23,8 @@ double standardDeviation(int arr[], int n){
 	double avg = average(arr, n);
 	double variance = 0.0;
 	for(int i = 0; i < n; i++){
-		variance += (arr[i] - avg)* (arr[i] - avg);
+		auto square = (arr[i] - avg) * (arr[i] - avg);
+		variance += square;
 	}
 	return sqrt(variance / n);
 
