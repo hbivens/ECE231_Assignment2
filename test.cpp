@@ -53,3 +53,4 @@ void test1()
     // Test outputArray (just call, no assert)
     outputArray(arr, n);
 }
+
